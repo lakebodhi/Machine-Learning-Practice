@@ -1,0 +1,6 @@
+import os
+import pandas as pd
+from PIL import Image
+import numpy as np
+import sklearn
+df_train = pd.read_csv('/Users/yangzhang/Documents/文稿 - YangZhang的MacBook Pro/Data Science/Machine Learning/sansan-001/train.csv')
